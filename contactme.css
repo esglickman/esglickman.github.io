@@ -1,0 +1,163 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #ffffff;
+	background-image: url("logopattern.png");
+}
+
+header {
+	background-color: #ffffff;
+	padding-top: 10px;
+}
+
+.headerbar {
+	width: 100%;
+	background-color: #ffffff;
+
+}
+
+.headername {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	width: 200px;
+	height: 35px;
+	border-bottom: 2px solid;
+	border-color: 
+
+}
+
+h1 {
+	background-color: #4aaaa5;
+	border: solid;
+	border-color: #cccccc;
+	color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	position: relative;
+	height: 50px;
+	width: 255px;
+	z-index: 2;
+	margin-left: 130px;
+	margin-bottom: -39px;
+}
+
+h3 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+nav {
+	float: right;
+	margin-right: 70px;
+	margin-bottom: -12px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.movenavbar {
+	margin-right: 350px;
+}
+
+.navbartext {
+	color: #777777;
+}
+
+.headerline {
+	width: 100%;
+}
+
+.maineverything {
+	width: 960px;
+
+}
+
+.maincontent {
+	background-color: #ffffff;
+	color: #777777;
+	width: 400px;
+	margin-left: 130px;
+	margin-top: 65px;
+	text-align: left;
+	padding: 10px;
+	border: solid;
+	border-color: #dddddd;
+}
+
+.iconnavbar {
+	margin-bottom: 12px;
+	text-align: center;
+}
+
+.contactmeheader {
+	color: #4aaaa5;
+	border-bottom: solid 2px;
+	border-color: #4aaaa5; 
+	padding-bottom: 15px;
+
+}
+
+.inputboxwidth {
+	width: 385px;
+}
+
+.messageheight {
+	height: 200px;
+	width: 385px;
+}
+
+.submitbox {
+	background-color: #4aaaa5;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #ffffff;
+}
+
+.connectwithme {
+	background-color: #ffffff;
+	float: right;
+	width: 300px;
+	padding: 1%;
+	text-align: center;
+	margin-right: 300px;
+	border: solid;
+	border-color: #dddddd;
+	z-index: 2;
+	margin-top: 60px;
+	position: absolute;
+	top: 93px;
+	right: 0;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+li {
+	display: inline;
+}
+
+.icons {
+	float: right;
+}
+
+.centericons {
+	width: 300px;
+}
+.width33 {
+	width: 32%;
+	text-align: center;
+	float: left;
+	display: inline;
+
+}
+
+.footer {
+	background-color: #666666;
+	bottom: 0;
+	padding: 20px;
+	text-align: center;
+	margin-left: -230px;
+	border-top: solid;
+	border-color: #4aaaa5;
+	border-width: thick;
+	margin-top: 75px;
+	margin-bottom: 0;
+}

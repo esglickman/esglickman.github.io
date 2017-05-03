@@ -1,0 +1,103 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #ffffff;
+	background-image: url("logopattern.png");
+}
+
+header {
+	background-color: #ffffff;
+	padding-top: 10px;
+}
+
+h1 {
+	background-color: #4aaaa5;
+	border: solid;
+	border-color: #cccccc;
+	color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	position: relative;
+	height: 50px;
+	width: 255px;
+	z-index: 2;
+	margin-left: 130px;
+	margin-bottom: -39px;
+}
+
+nav {
+	float: right;
+	margin-right: 70px;
+	padding-bottom: 20px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.movenavbar {
+	margin-right: 45px;
+}
+
+.navbartext {
+	color: #777777;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+li {
+	display: inline;
+	text-decoration: none;
+}
+
+.headerline {
+	width: 100%;
+}
+
+.maineverything {
+	width: 960px;
+}
+
+.maincontent {
+	background-color: #ffffff;
+	color: #777777;
+	width: 525px;
+	margin-left: 75px;
+}
+
+h2 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	text-align: left;
+	margin-top: 10px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.hangman {
+	width: 200px;
+	height: 200px;
+	padding: 20px;
+	z-index: 1;
+}
+.hangmantext {
+	background-color: #4aaaa5;
+	color: #777777;
+	width: 160px;
+	padding: 20px;
+	text-align: center;
+	z-index: 2;
+
+}
+
+.footer {
+	background-color: #666666;
+	bottom: 0;
+	padding: 20px;
+	text-align: center;
+	margin-left: -230px;
+	border-top: solid;
+	border-color: #4aaaa5;
+	border-width: thick;
+	margin-top: 75px;
+	margin-bottom: 0;
+}
