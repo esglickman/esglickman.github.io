@@ -1,4 +1,4 @@
-body {
+/*body {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -100,4 +100,246 @@ h2 {
 	border-width: thick;
 	margin-top: 75px;
 	margin-bottom: 0;
+}*/
+
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #ffffff;
+	background-image: url("assets/logopattern.png");
+	}
+
+p {
+	background-color: #ffffff;
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	float: right;
+	clear: both;
+	margin-left: 10px;
+}
+
+h3 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h1 {
+	background-color: #4aaaa5;
+	border: solid;
+	border-color: #cccccc;
+	color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	position: relative;
+	height: 50px;
+	width: 255px;
+	z-index: 2;
+	margin-left: 93px;
+	margin-bottom: -39px;
+}
+
+nav {
+	float: right;
+	margin-right: 70px;
+	padding-bottom: 20px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+/*header {
+	width: 960px;
+	padding-top: 10px;
+}*/
+
+header {
+	background-color: #ffffff;
+	padding-top: 10px;
+}
+
+.navbartext {
+	color: #777777;
+}
+
+.movenavbar {
+	margin-right: 350px;
+}
+
+.headerline {
+	width: 100%;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+li {
+	display: inline;
+}
+
+.maineverything {
+	width: 960px;
+	margin-top: 20px;
+	margin-left: 68px;
+}
+.maincontent {
+	width: 430px;
+	margin-left: 25px;
+	background-color: #ffffff;
+	color: #777777;
+	padding: 3%;
+	border: solid;
+	border-color: #dddddd;
+	z-index: 1;
+	float: left;
+	margin-top: 60px;
+}
+
+.myface {
+	float: left;
+	position: relative;
+	width: 21%;
+	height: 21%;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	text-decoration: overline;
+}
+
+hr {
+	margin: 0 10px;
+}
+
+.footer {
+	background-color: #666666;
+	width: 100%;
+	bottom: 0;
+	padding: 20px;
+	text-align: center;
+	margin-left: -230px;
+	border-top: solid;
+	border-color: #4aaaa5;
+	border-width: thick;
+	margin-top: 75px;
+	margin-bottom: 0;
+}
+
+.connectwithme {
+	background-color: #ffffff;
+	float: right;
+	width: 300px;
+	padding: 1%;
+	text-align: center;
+	margin-right: 70px;
+	border: solid;
+	border-color: #dddddd;
+	z-index: 2;
+	margin-top: 60px;
+}
+
+.icons {
+	float: right;
+}
+
+.pictures {
+	margin: 0 auto;
+}
+
+.hangman {
+	width: 200px;
+	height: 150px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+
+}
+
+.rpg {
+	width: 200px;
+	height: 150px;
+	padding-bottom: 10px;
+}
+
+.trivia {
+	width: 200px;
+	height: 150px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.widget {
+	width: 200px;
+	height: 150px;
+	padding-bottom: 10px;
+}
+
+.rockpaperscissors {
+	width: 200px;
+	height: 150px;
+}
+
+.line1 {
+	display: inline;
+}
+ .hangmantext {
+ 	position: absolute;
+ 	top: 372px;
+ 	margin: 0 auto;
+ 	color: #ffffff;
+ 	background-color: #4aaaa5;
+ 	width: 200px;
+ 	height: 45px;
+ 	text-align: center;
+ 	padding-top: 7px;
+ }
+
+ .rpgtext {
+ 	position: absolute;
+ 	top: 372px;
+ 	margin: 0 auto;
+ 	color: #ffffff;
+ 	background-color: #4aaaa5;
+ 	width: 200px;
+ 	height: 45px;
+ 	text-align: center;
+ 	padding-top: 7px;	
+ 	margin-left: 214px;
+ }
+
+ .triviatext {
+ 	position: absolute;
+ 	top: 528px;
+ 	margin: 0 auto;
+ 	color: #ffffff;
+ 	background-color: #4aaaa5;
+ 	width: 200px;
+ 	height: 45px;
+ 	text-align: center;
+ 	padding-top: 7px;
+ }
+
+.widgettext {
+	position: absolute;
+ 	top: 528px;
+ 	margin: 0 auto;
+ 	color: #ffffff;
+ 	background-color: #4aaaa5;
+ 	width: 200px;
+ 	height: 45px;
+ 	text-align: center;
+ 	padding-top: 7px;	
+ 	margin-left: 214px;
+}
+
+.RPStext {
+	position: absolute;
+ 	top: 690px;
+ 	margin: 0 auto;
+ 	color: #ffffff;
+ 	background-color: #4aaaa5;
+ 	width: 200px;
+ 	height: 45px;
+ 	text-align: center;
+ 	padding-top: 7px;
 }
